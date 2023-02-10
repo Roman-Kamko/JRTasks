@@ -2,7 +2,7 @@ package syntax.loops;
 
 import java.util.Scanner;
 
-public class Loops26 {
+public class LoopsTask26 {
     public static void main(String[] args) {
         /*В методе main() есть переменная double glass = 0.5, которая символизирует наполовину заполненный стакан.
         Для пессимиста он наполовину пуст, а для оптимиста - наполовину полон. Необходимо считать с клавиатуры
