@@ -16,7 +16,7 @@ public class ArraysTask6 {
     public static void main(String[] args) {
         coordinates = new int[200];
         for (int i = 0; i < coordinates.length; i++) {
-            coordinates[i] = 10*(i/2) + i%2;
+            coordinates[i] = 10 * (i / 2) + i % 2;
         }
         System.out.println(Arrays.toString(coordinates));
     }
